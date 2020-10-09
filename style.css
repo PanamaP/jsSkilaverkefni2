@@ -1,0 +1,24 @@
+
+  body {
+    overflow: hidden;
+    height: inherit;
+    margin: 0;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  
+  #goodCount {
+    position: absolute;
+    margin: 0;
+    top: 35px;
+    right: 5px;
+    color: white;
+  }
+
+  #evilCount {
+    position: absolute;
+    margin: 0;
+    top: 15px;
+    right: 10px;
+    color: white;
+  }
