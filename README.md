@@ -1,1 +1,1 @@
-# jsSkilaverkefni2
+# Skilaverkefni2
